@@ -1,6 +1,28 @@
-div{
-    width:auto;
-    border:200px;
-    padding:50px;
-    margin:20px;
+body{
+    background-color:rgb(79, 82, 128)
+}
+
+h1{
+    color:white;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.container{
+    margin-left: 41%;
+    margin-top: 5%;
+}
+#input{
+    height: 35px;
+    width: 300px;
+    font-size: 15px;
+}
+#addToList{
+    height: 41px;
+    width: 41px;
+}
+.to-do{
+    color: white;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

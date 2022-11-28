@@ -1,6 +1,6 @@
-let addToDoButton = document.getElementById('addToDo');
-let toDoContainer = document.getElementById('toDoContainer');
-let inputField = document.getElementById('inputField');
+let addToDoButton = document.getElementById('addToList');
+let toDoContainer = document.getElementById('toDoContent');
+let inputField = document.getElementById('input');
 
 addToDoButton.addEventListener('click', function(){
     var paragraph = document.createElement('p');
