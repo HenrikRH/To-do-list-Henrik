@@ -1,6 +1,6 @@
 # To-do-list
-<h1>To-do list<h1>
-Dette er en nettside som er laget slik at du kan lage en liste over gjøremål eller oppgaver du skal gjøre.
+<h2>Hensikt<h2>
+<p>Dette er en nettside som er laget slik at du kan lage en liste over gjøremål eller oppgaver du skal gjøre. Den er laget slik at du kan ha en oversiklig liste som er lett å redigere<p>
 
 
 Nettsiden fungerer slik at du skriver hva du vil legge til i listen i skrivefeltet. Dermed trykker du på pluss knappen og så legges til teksten din i listen.
